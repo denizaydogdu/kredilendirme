@@ -23,6 +23,7 @@ dependency-reduced-pom.xml
 ### Local tooling ###
 .claude/
 CLAUDE.md
+notlar/
 
 ### Logs ###
 *.log
